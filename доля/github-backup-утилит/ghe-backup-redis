@@ -45,4 +45,5 @@ ghe-ssh "$GHE_HOSTNAME" /bin/bash <<EOF
   fi
 EOF
 
-bm_end "$(basename $0)"
+bm_end " $ (базовое имя $ 0 ) "
+Взаимодействие с другими людьми.
